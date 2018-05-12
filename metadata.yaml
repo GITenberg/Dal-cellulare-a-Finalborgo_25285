@@ -1,0 +1,28 @@
+_repo: Dal-cellulare-a-Finalborgo_25285
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Valera, Paolo
+    birthdate: 1850
+    deathdate: 1926
+    gutenberg_agent_id: '31215'
+    url: http://www.gutenberg.org/2009/agents/31215
+    wikipedia: http://it.wikipedia.org/wiki/Paolo_Valera
+description: ''
+gutenberg_bookshelf: IT Biografie
+gutenberg_issued: '2008-05-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25285'
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Anarchists -- Italy -- Biography'
+- !lcc 'HX'
+title: Dal cellulare a Finalborgo
+url: http://www.gutenberg.org/ebooks/25285
